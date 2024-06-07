@@ -1,0 +1,140 @@
+  Dear Customer,
+
+Please follow the below mentioned steps to update your wireless details :
+
+1. After setting up a wired or wireless connection, launch a web browser and enter the gateway "192.168.1.254",
+2. On the Login page, Username is "AdminGPON" and Password is "ALC#FGU",
+3. Click on the Log In button and among the listed options, navigate to Network,
+4. Under the Network option, click on the sub option Wireless (2.4Ghz),
+5. SSID Name (SSID) and WPA Key will be present from which you can make the changes to the network name and password,
+6. Click on "Save" button to update the changes.
+
+
+
+mortalla router
+
+
+Dear Customer,
+
+Please follow the below mentioned steps to change your wireless details :
+
+1. After setting up a wired or wireless connection, launch a web browser and enter the gateway "192.168.0.1",
+2. On the Login page, Username is "admin" and Password is "motorola",
+3. Click on the Login button and hover over the Wireless option,
+4. Navigate to the sub option Primary Network Settings,
+5. Network Name (SSID) and Passphrase will be present from which you can make changes to your network name and password,
+6. Click "Apply" to update the changes in the device.
+
+
+##tplink
+
+192.168.0.1 
+
+Username : admin
+Pw : admin 
+
+014217444---.OVCC  
+014217001--->enterprises		
+-16 to -27.448 ---> optical power issue
+
+## for iblink 
+Please follow the below mentioned steps to update your wireless details :
+1. After setting up a wired or wireless connection, launch a web browser and enter the gateway "192.168.16.1",
+2. On the Login page, Username is "admin" and Password is "admin",
+3. Click on the Login button and go to Advance and Wireless,
+4. Among the listed options, click on Wireless Securtiy,
+5. Securtiy Key will be present from which you can make changes to your network password,
+6. Click on "Apply" for save the changes in the device.
+
+
+##nclink secondary router ko password change instruction::
+
+Dear Customer,
+Please follow the below mentioned steps to update your wireless details :
+1. After setting up a wired or wireless connection, launch a web browser and enter the gateway "192.168.1.1",
+2. On the Login page, leave the Password "admin" and click on the Log In button,
+3. Among the listed options, click on WLAN Settings and go to Basic Setting,
+4. Wireless Network Name (SSID) and Pre-shared key will be present from which you can make changes to your network name and password,
+5. Click on "Save Setting" to apply the changes.
+
+
+Please follow the below mentioned steps to filter MAC on your Nokia ONU -
+
+1. After setting up a wired or wireless connection, launch a web browser and enter the gateway "192.168.1.254",
+2. On the Login page, Username is "AdminGPON" and Password is "ALC#FGU",
+3. Click on the Log In button and among the listed options, navigate to Security
+4. Under the Security option, click on the sub option MAC Filter,
+5. Scroll below and refer below the Wi-Fi SSID option and tick on Enable,
+6. You can enter the MAC ID of the devices that you to allow or block on the text area or select the devices that are already connected on the dropbox option,
+7. Click on "Save" to save the changes.
+
+
+Please follow the below-mentioned steps to update your wireless details :
+1. After setting up a wired or wireless connection, launch a web browser and enter the gateway "192.168.1.254",
+2. On the Login page, the Username is "AdminGPON" and Password is "ALC#FGU",
+3. Click on the login button and among the listed options, navigate to Network,
+4. Under the Network option, click on the sub-option Wireless (2.4Ghz),
+5. Encryption Mode will be present from which change the Encryption Mode to WEP and on WEP Encryption Mode select shared key
+6. Change the password from the WEP key
+7. Click on the "Save" button to update the changes.
+
+
+
+
+
+@all if anyone getting confusion for  Steps or instruction to pair the Clear TV remote, are  provided below :
+1) Firstly, place the remote on the floor or flat surface facing head to each other.
+2) After the step 1, press the set button from clear TV remote until the red led light becomes stable which is on the second row
+   at top corner.
+3) After that, press the button from clear TV remote which you want to pair (i.e vol + or vol - or Power) lined at next to set so
+   that led light start to blinks again.
+4) After that, press the button in TV remote (like if u have pressed vol+ from clear TV remote earlier then you need to press
+   (vol +) from TV remote too) so that blinking led light becomes stable again .
+5) Finally press the set again.
+
+
+@@parental lock
+
+Menu-setup-other-ca-configuration-program parent control-pin 0000- allow every content.
+
+##power range::
+-16 to -27.448 
+
+##9801158999--viber number 
+##9812113300--> MESSAGE NUMBER
+
+
+
+##to update vlan
+
+network --> wan  --> vlan id
+
+
+
+
+##Menu-setup-other-Ca-card information
+## hamro number-->9801235888
+
+D!gn!Ty#$&!sC
+
+##xshell
+
+show equipment ont interface
+
+show equipment ont operational-data
+
+show equipment ont optics 
+
+show vlan bridge-port-fdb | match exact:
+
+show interface port pon:
+
+show cable modem 
+
+ping repeat-count 100 size 1400 
+
+show cable modem summary 
+
+iobit uninstaller--->>
+
+118(static) or 110(public)
